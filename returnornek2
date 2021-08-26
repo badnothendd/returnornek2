@@ -1,0 +1,21 @@
+#include <stdio.h>
+#include <stdlib.h>
+ 
+ 
+   int carpma(int tgb, int esr) {
+   
+   return (tgb*esr);
+}
+int main() {
+	int tgb, esr;
+	 printf("iki sayi gir beybi:");
+	 scanf("%d %d", &tgb, &esr);
+	 
+	 printf("carpimlari: %d", carpma(tgb, esr));
+	
+	
+	return 0;
+}
+
+
+  //hahahahahahahhaahahahahahahahahahahayayyyyyyyyyyyyy
